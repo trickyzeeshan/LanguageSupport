@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-        <string name="main_text">स्वागत हे</string>
+        <string name="main_text">हमें आपके पासवर्ड रीसेट निर्देशों को भेजने के लिए बस आपके पंजीकृत ईमेल आईडी की आवश्यकता है</string>
         <string name="button">अगला पृष्ठ</string>
 </resources>

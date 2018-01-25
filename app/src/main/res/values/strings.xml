@@ -3,6 +3,6 @@
     <string name="English">English</string>
     <string name="Hindi">हिंदी</string>
     <string name="French">French</string>
-    <string name="main_text">Welcome</string>
+    <string name="main_text">We just need your registered Email Id to sent your password reset instructions.</string>
     <string name="button">Next Page</string>
 </resources>
